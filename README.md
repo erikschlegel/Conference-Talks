@@ -1,2 +1,1 @@
-# decoded2016
-Materials from Decoded Conf in Dublin
+# Decoded2016 & Revolution Conference Speaker Decks
